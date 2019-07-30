@@ -2,17 +2,7 @@ Just run `test.sh`.
 
 The output should be:
 ```
-compiling libfoo with foo=foo_v1
-compiling main.c with foo=foo_v1
-running with v1 lib
-3
-compiling libfoo with foo=foo_v2
-running with v2 lib
-3
-compiling main.c with foo=foo_v2
-running new version with v2 lib
--1
-[klemens@klemens-fedora symver]$ ./test.sh 
+$ ./test.sh 
 compiling libfoo with foo=foo_v1
 compiling main.c with foo=foo_v1
 running with v1 lib
