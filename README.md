@@ -2,7 +2,6 @@ Just run `test.sh`.
 
 The output should be:
 ```
-$ ./test.sh 
 compiling libfoo with foo=foo_v1
 compiling main.c with foo=foo_v1
 running with v1 lib
